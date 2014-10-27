@@ -4,6 +4,9 @@ This is a web application for keeping track of GitHub yearly contributions and s
 
 **[Tealeaf Student Leaderboard](http://tealeaf-leaderboard.herokuapp.com)**
 
+**Original Repo:**
+**https://github.com/pmichaeljones/tl_leaderboard **
+
 Please fork the repo and use it for your company's coding challenge.
 
 If you use it for your business and wish to share the end result, email me and I'll add a link here.
